@@ -1,3 +1,4 @@
+// js to stop video on close modal
 <script>
 jQuery(document).ready(function(){
     /* Get iframe src attribute value i.e. YouTube video url
